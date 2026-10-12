@@ -3,16 +3,6 @@ WorkBridge is a two-sided job marketplace designed to connect job seekers with b
 
 The platform provides a structured alternative to informal hiring channels such as Facebook groups and WhatsApp, making it easier to find jobs, manage applications, and communicate with employers.
 
-## Features
-
-- **Authentication & Authorization:** Secure registration and login with role-based access control.
-- **Job Seeker Profiles:** Create profiles showcasing skills, experience, and availability.
-- **Job Listings:** Employers can create, edit, and manage job postings.
-- **Search & Filtering:** Find relevant jobs based on location, category, skills, salary, and working hours.
-- **Job Applications:** Apply for jobs and track application statuses.
-- **Applicant Management:** Employers can review applicants and update their application statuses.
-- **Admin Dashboard:** Manage users, businesses, job listings, reports, and job categories.
-
 ## User Roles
 
 ### 1. Job Seeker
@@ -68,8 +58,18 @@ flowchart LR
     style DB fill:#50C878,color:#fff
     style Auth fill:#A569BD,color:#fff
 ```
-
 ---
+
+## Features
+
+- **Authentication & Authorization:** Secure registration and login with role-based access control.
+- **Job Seeker Profiles:** Create profiles showcasing skills, experience, and availability.
+- **Job Listings:** Employers can create, edit, and manage job postings.
+- **Search & Filtering:** Find relevant jobs based on location, category, skills, salary, and working hours.
+- **Job Applications:** Apply for jobs and track application statuses.
+- **Applicant Management:** Employers can review applicants and update their application statuses.
+- **Admin Dashboard:** Manage users, businesses, job listings, reports, and job categories.
+
 ## Project Goals
 
 - Simplify local and flexible job discovery.
